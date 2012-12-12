@@ -1,12 +1,13 @@
 # 基于PCA算法的脸部识别程序
 实验环境: UBUNTU 12.04
+
 依赖: Python2.7, numpy, OpenCV, python-opencv, PIL
 
 ## 说明
 
 ### 使用说明
 
-- 如果有多个摄像头，可能需要修改**cam.py**中:
+- 如果有多个摄像头，可能需要修改 **cam.py** 中:
 
 ```
 ...
